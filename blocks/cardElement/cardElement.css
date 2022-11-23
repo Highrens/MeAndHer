@@ -1,0 +1,22 @@
+.cardElement{
+    max-width: 450px;
+    max-height: 450px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+    padding:  0;
+
+    border: 1px black solid;
+    box-sizing: border-box;
+
+    background-color: white;
+}
+
+@media screen and (max-width: 480px) {
+    .cardElement{
+        max-width: 300px;
+    }
+}

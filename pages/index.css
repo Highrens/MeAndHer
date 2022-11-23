@@ -1,0 +1,10 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/font.css);
+
+@import url(../blocks/body/body.css);
+@import url(../blocks/main/main.css);
+
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cardElement/cardElement.css);
+@import url(../blocks/cardElement/__photo/cardElement__photo.css);
+@import url(../blocks/cardElement/__decription/cardElement__decription.css);
