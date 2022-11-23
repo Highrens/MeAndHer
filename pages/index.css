@@ -6,5 +6,5 @@
 
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/cardElement/cardElement.css);
-@import url(../blocks/cardElement/__photo/cardElement__photo.css);
 @import url(../blocks/cardElement/__decription/cardElement__decription.css);
+@import url(../blocks/cardElement/__photo/cardElement__photo.css);
