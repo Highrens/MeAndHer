@@ -1,0 +1,6 @@
+.cardElement__photo{
+    margin: 20px;
+    max-height: 80%;
+    
+    max-width: calc(100% - 40px);
+}
