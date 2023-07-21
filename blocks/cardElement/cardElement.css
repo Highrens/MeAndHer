@@ -1,7 +1,7 @@
 .cardElement{
     max-width: 450px;
     max-height: 450px;
-
+    height: fit-content;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -10,7 +10,7 @@
     padding:  0;
 
     box-sizing: border-box;
-
+    border-radius: 29px;
     background-color: white;
     box-shadow: 10px 10px 31px -8px rgba(0,0,0,0.75);
     -webkit-box-shadow: 10px 10px 31px -8px rgba(0,0,0,0.75);
