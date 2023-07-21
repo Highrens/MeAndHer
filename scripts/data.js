@@ -60,8 +60,12 @@ export const data = [
         name: 'Готовим пирог!'
     },
     {
-        src: './images/photo_2023-07-21_22-26-32.jpg',
+        src: './images/photo_2023-07-21_22-26-31.jpg',
         name: 'Ты помнишь? Это видео!'
+    },
+    {
+        src: './images/photo_2023-07-21_22-26-32.jpg',
+        name: 'Лучшее фото из театра!'
     },
     {
         src: './images/photo_2022-12-04_21-39-06.jpg',
@@ -72,7 +76,7 @@ export const data = [
         name: 'Скоро переезд'
     },
     {
-        src: './images.photo_2023-07-21_22-26-32 (2).jpg',
+        src: './images/th.jpg',
         name: 'Скоро к стоматологу...'
     },
     {
